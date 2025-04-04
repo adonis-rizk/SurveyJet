@@ -76,12 +76,9 @@ Skip the technical setup and focus on creating and analyzing surveys. With our h
 - 💬 Join our [Discord](https://discord.gg/DEjguXn)
 - 🦸 Make [contributions](https://www.limesurvey.org/manual/How_to_join_the_LimeSurvey_project_team) or [join the LimeSurvey project team](https://www.limesurvey.org/manual/How_to_join_the_LimeSurvey_project_team)
 
-## All Thanks to our contributors
-<a href="https://github.com/limesurvey/limesurvey/graphs/contributors">
-
-<img src="https://contrib.rocks/image?repo=limesurvey/limesurvey&max=1000" />
+Note: SuveyJet is built upon the existing open-source project LimeSurvey. However, is not affiliated nor endorsed by any means with the company. 
   
 ## License
-LimeSurvey is licensed under [GPL v2.0, with the option to use any later GPL version](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html). Pictures and the LimeSurvey Logo are registered trademarks of LimeSurvey GmbH, based in Hamburg, Germany.
+SurveyJet is licensed under [GPL v2.0, with the option to use any later GPL version](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html). 
 
 <p align="right"><a href="#top">🔼 Back to top</a></p>
