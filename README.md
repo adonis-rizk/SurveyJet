@@ -76,7 +76,7 @@ Skip the technical setup and focus on creating and analyzing surveys. With our h
 - 💬 Join our [Discord](https://discord.gg/DEjguXn)
 - 🦸 Make [contributions](https://www.limesurvey.org/manual/How_to_join_the_LimeSurvey_project_team) or [join the LimeSurvey project team](https://www.limesurvey.org/manual/How_to_join_the_LimeSurvey_project_team)
 
-Note: SuveyJet is built upon the existing open-source project LimeSurvey. However, is not affiliated nor endorsed by any means with the company. 
+Note: SuveyJet is built upon the existing open-source project LimeSurvey. However, is not affiliated nor endorsed by the company. 
   
 ## License
 SurveyJet is licensed under [GPL v2.0, with the option to use any later GPL version](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html). 
